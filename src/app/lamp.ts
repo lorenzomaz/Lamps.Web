@@ -1,5 +1,5 @@
 export interface Lamp {
-  id: number;
+  id?: number;
   name: string;
   img: string;
   info: string;
